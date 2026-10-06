@@ -1,3 +1,3 @@
 
 # OSAMAH PORTFOLIO
-## VERCEL LINK:https://osamahportfolio-git-main-osamah-786.vercel.app/
+## VERCEL LINK:https://osamahportfolio.vercel.app/
